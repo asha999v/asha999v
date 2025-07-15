@@ -1,40 +1,42 @@
-## 👋 Hi there, I'm Asha!
+<h1 align="center">Hey 👋 What's up? I'm Asha!</h1>
 
-✨ Data & Business Analyst passionate about turning data into strategic business decisions and building impactful products.  
-🤖 Thriving in the AI evolution by continuously learning and experimenting with new tools like Napkin AI.
+###
 
----
+<p align="center">✨ Data & Business Analyst | Supply Chain & AI Enthusiast | Building products, exploring tools, and turning data into strategy 📊🤖</p>
 
-### 💡 What I do
-- 🔎 Analyze business trends and create actionable insights
-- 📊 Build dashboards and data models for growth and strategy
-- 🤖 Prototype AI-powered solutions and explore product ideas
-- ✍️ Create content & share stories on business innovation and geopolitics
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="60" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="powerbi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=excel" height="60" alt="excel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="60" alt="streamlit logo"  />
+</div>
 
-### ⚡ Current Focus
-- Business insights dashboards
-- AI-powered supplier matching
-- Sentiment analysis for customer feedback
-- Supply chain optimization simulations
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/asha-valluri/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://your-newsletter-link">
+    <img src="https://img.shields.io/static/v1?message=Newsletter&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="newsletter logo"  />
+  </a>
+</div>
 
-### 🛠️ Tech & Tools
-Python, SQL, Excel, Power BI, Tableau, Pandas, Scikit-learn, Streamlit, Business Strategy, Product Analytics
+###
 
----
-
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/asha-valluri) • 
-
----
-
-### 😄 Fun Fact
-When I'm not analyzing data or building products, you'll find me exploring geopolitics, raving to techno music, or trying new recipes!
-
----
-  
-⭐ **Check out my pinned projects below & feel free to connect or give feedback!**
-
+<div align="center">
+  <img src="htt
